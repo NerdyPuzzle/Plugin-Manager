@@ -1,0 +1,12 @@
+
+{
+  "id": "kleiders_player_renderer",
+  "weight": 0,
+  "minversion": 202200225609,
+  "info": {
+    "name": "Kleiders Custom Renderer Plugin",
+        "author": "Kleiders, MCreator, Goldorion (Made some plugin templates)",
+        "version": "5.4.0",
+        "credits": "Kleiders, MCreator, Goldorion (Made some plugin templates)"
+  }
+}
